@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, Image, SafeAreaView, Dimensions, TextInput, TouchableOpacity } from 'react-native';
+import { RNGestureHandlerModule } from 'react-native-gesture-handler';
 import { FontAwesome } from '@expo/vector-icons';
 import { Picker } from '@react-native-picker/picker';
 
